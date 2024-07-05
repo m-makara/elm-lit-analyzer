@@ -1,0 +1,15 @@
+{
+  "name": "elm-lit-analyzer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "elm-codegen": "^0.5.3",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@lit-labs/analyzer": "^0.12.1",
+    "tsx": "^4.16.2"
+  }
+}
